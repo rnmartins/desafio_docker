@@ -1,3 +1,4 @@
+python=3.11
 pandas=2.2.3
 require=0.1.1
 jupterlab=4.3.6
